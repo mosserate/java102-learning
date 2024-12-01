@@ -1,6 +1,7 @@
 // this is basically going to be the same as the previous method that I did in java102 btw. 
 
-// center of mass problem 
+// center of mass 
+
 
 public class Point {
     public final double x; 
